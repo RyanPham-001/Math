@@ -14,6 +14,7 @@ elif(operation == "3"):
   #take numbers from user in order of their ask
   print(first_number + " * " + second_number + " = " + (float(first_number)-float(second_number))
   #multiplies the first number by the second number. 
+  # redo addition 
 def number ():
 #add lines for user to add as many as they want
   number1 = 
