@@ -1,7 +1,7 @@
 print("What operation would you like to do?")
 operation = input("1.) Addition\n2.)Subtraction\n3.)Multiplication\n4.)Division")
 if(operation== "1"):
-  number()
+
 elif(operation == "2"):
   first_number = input("What is your first number? ")
   second_number = input("What is your second number? ")
@@ -15,8 +15,6 @@ elif(operation == "3"):
   print(first_number + " * " + second_number + " = " + (float(first_number)-float(second_number))
   #multiplies the first number by the second number. 
   # redo addition 
-def number ():
-#add lines for user to add as many as they want
-  number1 = 
+
   
   
