@@ -25,4 +25,7 @@ elif(operation == "4"):
   #take numbers from user in order of their ask
   print(first_number + " / " + second_number + " = " + (float(first_number)/float(second_number))
   #divides the first number by the second number. 
+else:
+  print("Error has occurred please try again")
+  operation = input("What would you like to do?)
   
