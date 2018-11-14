@@ -33,4 +33,5 @@ print("how are you",54)
           
 def big ():
        print("gachi")
+       print("Practice")
                     
