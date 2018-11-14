@@ -29,3 +29,8 @@ else:
   print("Error has occurred please try again")
   operation = input("What would you like to do?)
   
+print("how are you",54)
+          
+def big ():
+       print("gachi")
+                    
