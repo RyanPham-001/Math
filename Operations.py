@@ -28,7 +28,7 @@ elif(operation == "4"):
 else:
   print("Error has occurred please try again")
   operation = input("What would you like to do?)
-  
+  big():
 print("how are you",54)
           
 def big ():
