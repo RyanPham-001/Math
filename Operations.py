@@ -29,9 +29,12 @@ else:
   print("Error has occurred please try again")
   operation = input("What would you like to do?)
   big():
+  number(3) #prints the number multiplied by two                  
 print("how are you",54)
           
 def big ():
        print("gachi")
        print("Practice")
+def number (first): 
+    print(first*2) 
                     
