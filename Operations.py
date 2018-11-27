@@ -1,5 +1,5 @@
 print("What operation would you like to do?")
-operation = input("1.) Addition\n2.)Subtraction\n3.)Multiplication\n4.)Division")
+operation = input("1.) Addition\n2.)Subtraction\n 3.)Multiplication\n4.)Division")
 if(operation== "1"):
   first_number = input("What is your first number? ")
   second_number = input("What is your second number? ")
