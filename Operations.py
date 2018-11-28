@@ -31,7 +31,7 @@ else:
   big():
   number(3) #prints the number multiplied by two                  
 print("how are you",54)
-          
+print(5+5+ " 5+5 = 10")       
 def big ():
        print("gachi")
        print("Practice")
