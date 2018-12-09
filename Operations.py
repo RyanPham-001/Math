@@ -34,7 +34,7 @@ print("how are you",54)
 print(5+5+ " 5+5 = 10")       
 def big ():
        print("gachi")
-       print("Practice")
+       print("Practice%s,t)
 def number (first): 
     print(first*2) 
                     
