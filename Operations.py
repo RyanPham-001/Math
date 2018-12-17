@@ -36,5 +36,5 @@ def big ():
        print("gachi")
        print("Practice"+" Practice")
 def number (first): 
-    print(first*2) 
+    print(first*2*3) 
                     
